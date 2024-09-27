@@ -1,0 +1,22 @@
+.logo1{
+    display: flex;
+    align-items: center;
+    margin-right: 56px;
+    gap: 9px;
+    flex-direction: column;
+}
+.h1{
+    font-weight: bolder;
+ font-size: 40px;
+ text-align: center;
+ margin-top: 16px;
+}
+.k{
+color: #f56551;
+}
+.p{
+    font-weight: 500;
+    text-align: center;
+    justify-content: center;
+    color: grey;
+}
